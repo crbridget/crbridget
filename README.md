@@ -1,71 +1,59 @@
 # Bridget Crampton
 
-Data Science student at Northeastern University, class of 2028. Building analytical frameworks, automation tools, and machine learning models for real-world applications.
+Data Science student at Northeastern University. I build things that make data make sense and tools that make life easier.
 
-## Current Work
+## What I'm Working On
 
-**Software Product Lab Member** at Forge Product Lab, developing Codescape, a VS Code extension that transforms codebases into living city visualizations to make learning progress visible and shareable.
+**Building Codescape** at Forge Product Lab - a VS Code extension that turns your codebase into a city. Classes become buildings, functions add floors, and your project grows into something you can actually see and share. Making invisible progress visible for developers learning to code.
 
-**Internal Tools Engineer** at Generate Product Development Studio, developing application portals and analytics dashboards serving 200+ candidates and 30+ recruiters.
+**Engineering tools** at Generate Product Development Studio - improving application portals and analytics dashboards for 200+ candidates and 30+ recruiters. Building the infrastructure that connects students with opportunities.
 
-**Undergraduate Research Assistant** at Network Science Institute, building directed network frameworks to analyze soccer possession chains and identify tactical patterns in goal-scoring attacks.
+**Researching soccer analytics** at the Network Science Institute - using directed network analysis to understand what makes goal-scoring attacks work. Tracking how the ball moves through 1,500+ possession sequences to find patterns in successful plays.
 
-**Teaching Assistant** for DS 3000: Foundations of Data Science, supporting 100+ students with machine learning fundamentals and linear algebra.
+**Teaching DS 3000** - helping 100+ students figure out machine learning and linear algebra through office hours and labs. Explaining NumPy tensor operations in ways that actually make sense.
 
-## Featured Projects
+## Projects I've Built
 
-**Codescape** | VS Code Extension & Web Visualization (Coming Soon)
-- Developer tool that transforms codebases into evolving 3D city visualizations where classes become buildings, functions add floors, and project architecture becomes explorable
-- VS Code extension with Tree-sitter parsing, live WebView rendering, and JSON export functionality for sharing GitHub-hosted visualizations
-- Built to solve the accountability gap in personal projects by making invisible coding progress tangible and shareable
+**Codescape** - VS Code Extension (In Progress)
+Developer tool that visualizes codebases as growing 3D cities. Uses Tree-sitter for parsing, renders live in VS Code, exports to JSON for sharing on GitHub. Solving the problem of abandoned side projects by making your progress feel real.
 
-**CoopScout** | Full-Stack Automation Platform
-- Python/Selenium web scraper with cookie-based authentication extracting 1000+ co-op postings from NUworks
-- Flask REST API with Supabase PostgreSQL integration and content-based recommendation system using TF-IDF vectorization and cosine similarity
-- Built to democratize access to co-op hiring insights through structured data collection and automated matching
+**CoopScout** - Job Search Automation
+Scraped 1000+ co-op postings using Python and Selenium, built a Flask API with PostgreSQL backend, added TF-IDF-based recommendations. Created to level the playing field for students navigating the co-op search.
 
-**sportsnetsci** | Network Science & Sports Analytics
-- Directed network analysis framework processing 1,500+ soccer possession sequences from StatsBomb event data
-- Implements graph-based classification using centrality metrics, path analysis, and motif detection to identify tactical signatures
-- Applies Delaunay triangulation and Voronoi tessellation for spatial analysis of On-Ball Value flow
+**sportsnetsci** - Soccer Network Analysis
+Framework for analyzing possession chains using graph theory and spatial geometry. Applies Delaunay triangulation and centrality metrics to 1,500+ sequences from StatsBomb data to identify tactical patterns in attacking play.
 
-**Superfoods or Super Marketing?** | Machine Learning Analysis
-- Data acquisition pipeline using USDA API collecting 2000+ food profiles with 13 nutrition label features
-- Trained NumPy perceptron and sklearn SGDClassifier models achieving 96.8% accuracy with perfect precision
-- Applied confusion matrices and convergence analysis to distinguish nutritional patterns from marketing claims
+**Superfoods or Super Marketing?** - ML Nutritional Analysis
+Collected 2000+ food profiles from USDA API, trained perceptron and SGDClassifier models hitting 96.8% accuracy. Used confusion matrices to separate actual nutrition from marketing hype.
 
-**spotify-insight** | Audio Analysis & ML
-- Feature engineering from song titles and audio data for sentiment analysis and clustering
-- Built predictive models (Linear Regression, KNN, Random Forest) for song popularity based on textual and audio characteristics
+**spotify-insight** - Music Analysis
+Feature engineering on song titles and audio data to predict popularity. Built models using Linear Regression, KNN, and Random Forest to understand what makes songs resonate.
 
-**mastodon-moderation** | Network Analysis
-- Analyzed moderator behavior using cosine similarity and Louvain community detection
-- Visualized networks and clustering patterns with NetworkX, Matplotlib, and Seaborn
+**mastodon-moderation** - Community Detection
+Network analysis of moderator behavior using Louvain community detection and cosine similarity. Visualized patterns in how communities self-organize.
 
-**geography-of-disaster** | Data Visualization Web App
-- Interactive HTML-based application with spatial analysis and visualizations of disaster patterns
+**geography-of-disaster** - Interactive Visualization
+Web app with spatial analysis and interactive visualizations exploring disaster patterns across regions.
 
 ## Technical Skills
 
-**Programming**: Python, SQL, HTML, CSS, Flask, JavaScript/TypeScript
+**Languages & Frameworks**: Python, SQL, HTML, CSS, JavaScript/TypeScript, Flask
 
-**Data Science Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly, Altair, NetworkX, SciPy
+**Data Science**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly, NetworkX, SciPy
 
-**Web Development**: Flask, Beautiful Soup, Selenium, REST APIs, Web scraping
+**Development**: Flask, Beautiful Soup, Selenium, REST APIs, VS Code Extensions, Tree-sitter, Three.js
 
-**Tools**: Git/GitHub, PostgreSQL, Supabase, Google ADK, Tableau, Excel, Jupyter Notebook
+**Tools**: Git/GitHub, PostgreSQL, Supabase, Google ADK, Tableau, Jupyter Notebook
 
-**Machine Learning**: Classification, Regression, Clustering, Feature Engineering, Model Evaluation
+**Methods**: Machine Learning, Network Analysis, Graph Theory, Feature Engineering, Web Scraping
 
-**Network Analysis**: Graph theory, Community detection, Centrality metrics, Spatial networks, Computational geometry
+## Background
 
-## Education
+Northeastern University, Khoury College of Computer Sciences  
+B.S. in Data Science, GPA: 3.70 | Class of 2028
 
-**Northeastern University**, Khoury College of Computer Sciences  
-B.S. in Data Science, GPA: 3.70 | Expected May 2028
-
-Relevant Coursework: Machine Learning and Data Mining, Algorithms and Data, Advanced Programming with Data, Probability and Statistics, Financial Accounting
+Coursework: Machine Learning, Algorithms and Data, Advanced Programming with Data, Probability and Statistics
 
 ---
 
-Open to collaboration on data science, network analysis, and developer tools projects.
+Always interested in collaborating on network analysis, developer tools, and projects that make complex data accessible. Feel free to reach out.

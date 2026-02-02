@@ -23,6 +23,10 @@ Scraped 1000+ co-op postings using Python and Selenium, built a Flask API with P
 **sportsnetsci** - Soccer Network Analysis
 Framework for analyzing possession chains using graph theory and spatial geometry. Applies Delaunay triangulation and centrality metrics to 1,500+ sequences from StatsBomb data to identify tactical patterns in attacking play.
 
+**great-textpectations** - Constitutional Text Analysis
+NLP framework that analyzes 17 constitutional documents from 1787-1997 using TF-IDF, LDA topic modeling, and UMAP. Generates Sankey diagrams, topic distributions, and similarity scatterplots to reveal linguistic patterns and thematic evolution across political systems.
+[Great-Textpectations.pdf](https://github.com/user-attachments/files/25018824/Great-Textpectations.pdf)
+
 **Superfoods or Super Marketing?** - ML Nutritional Analysis
 Collected 2000+ food profiles from USDA API, trained perceptron and SGDClassifier models hitting 96.8% accuracy. Used confusion matrices to separate actual nutrition from marketing hype.
 
@@ -53,7 +57,3 @@ Northeastern University, Khoury College of Computer Sciences
 B.S. in Data Science, GPA: 3.70 | Class of 2028
 
 Coursework: Machine Learning, Algorithms and Data, Advanced Programming with Data, Probability and Statistics
-
----
-
-Always interested in collaborating on network analysis, developer tools, and projects that make complex data accessible. Feel free to reach out.

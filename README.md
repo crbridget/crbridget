@@ -9,7 +9,7 @@ Data Science student at Northeastern University. I build things that make data m
 **Engineering tools** at Generate Product Development Studio - improving application portals and analytics dashboards for 200+ candidates and 30+ recruiters. Building the infrastructure that connects students with opportunities.
 
 **Researching soccer analytics** at the Network Science Institute - using directed network analysis to understand what makes goal-scoring attacks work. Tracking how the ball moves through 1,500+ possession sequences to find patterns in successful plays.
-<img width="1890" height="1623" alt="image" src="https://github.com/user-attachments/assets/e4fcf03f-9072-497d-9aec-0ed85fc1ccfc" />
+<img width="955" height="553" alt="Screenshot 2026-02-02 at 11 27 26 AM" src="https://github.com/user-attachments/assets/f605ec33-ba97-4af1-b69d-d494b445ed99" />
 
 
 **Teaching DS 3000** - helping 100+ students figure out machine learning and linear algebra through office hours and labs. Explaining NumPy tensor operations in ways that actually make sense.

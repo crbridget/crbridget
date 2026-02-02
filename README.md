@@ -25,19 +25,22 @@ Framework for analyzing possession chains using graph theory and spatial geometr
 
 **great-textpectations** - Constitutional Text Analysis
 NLP framework that analyzes 17 constitutional documents from 1787-1997 using TF-IDF, LDA topic modeling, and UMAP. Generates Sankey diagrams, topic distributions, and similarity scatterplots to reveal linguistic patterns and thematic evolution across political systems.
-[Great-Textpectations.pdf](https://github.com/user-attachments/files/25018824/Great-Textpectations.pdf)
+<img width="811" height="636" alt="Screenshot 2026-02-02 at 11 23 42 AM" src="https://github.com/user-attachments/assets/2b959d06-c382-4e56-be3e-c97183aeecec" />
+
 
 **Superfoods or Super Marketing?** - ML Nutritional Analysis
 Collected 2000+ food profiles from USDA API, trained perceptron and SGDClassifier models hitting 96.8% accuracy. Used confusion matrices to separate actual nutrition from marketing hype.
 
 **spotify-insight** - Music Analysis
-Feature engineering on song titles and audio data to predict popularity. Built models using Linear Regression, KNN, and Random Forest to understand what makes songs resonate.
+Feature engineering on song titles and audio data to predict popularity through exploratory analysis of audio features like danceability, energy, and valence. Built models using Linear Regression, KNN, and Random Forest to understand what makes songs resonate.
+<img width="1200" height="1000" alt="Popularity_Against_Features" src="https://github.com/user-attachments/assets/34376dbd-8704-4f2d-a69e-ee37cf5ec047" />
 
 **mastodon-moderation** - Community Detection
 Network analysis of moderator behavior using Louvain community detection and cosine similarity. Visualized patterns in how communities self-organize.
 
 **geography-of-disaster** - Interactive Visualization
 Web app with spatial analysis and interactive visualizations exploring disaster patterns across regions.
+<img width="1013" height="586" alt="Screenshot 2026-02-02 at 11 17 44 AM" src="https://github.com/user-attachments/assets/29fa9e74-c39f-4be8-b7eb-7cf4dcf672a1" />
 
 ## Technical Skills
 

@@ -9,7 +9,6 @@ Data Science student at Northeastern University. I build things that make data m
 **Engineering tools** at Generate Product Development Studio - improving application portals and analytics dashboards for 200+ candidates and 30+ recruiters. Building the infrastructure that connects students with opportunities.
 
 **Researching soccer analytics** at the Network Science Institute - using directed network analysis to understand what makes goal-scoring attacks work. Tracking how the ball moves through 1,500+ possession sequences to find patterns in successful plays.
-<img width="955" height="553" alt="Screenshot 2026-02-02 at 11 27 26 AM" src="https://github.com/user-attachments/assets/f605ec33-ba97-4af1-b69d-d494b445ed99" />
 
 
 **Teaching DS 3000** - helping 100+ students figure out machine learning and linear algebra through office hours and labs. Explaining NumPy tensor operations in ways that actually make sense.
@@ -35,14 +34,12 @@ Collected 2000+ food profiles from USDA API, trained perceptron and SGDClassifie
 
 **spotify-insight** - Music Analysis
 Feature engineering on song titles and audio data to predict popularity through exploratory analysis of audio features like danceability, energy, and valence. Built models using Linear Regression, KNN, and Random Forest to understand what makes songs resonate.
-<img width="1200" height="1000" alt="Popularity_Against_Features" src="https://github.com/user-attachments/assets/34376dbd-8704-4f2d-a69e-ee37cf5ec047" />
 
 **mastodon-moderation** - Community Detection
 Network analysis of moderator behavior using Louvain community detection and cosine similarity. Visualized patterns in how communities self-organize.
 
 **geography-of-disaster** - Interactive Visualization
 Web app with spatial analysis and interactive visualizations exploring disaster patterns across regions.
-<img width="1013" height="586" alt="Screenshot 2026-02-02 at 11 17 44 AM" src="https://github.com/user-attachments/assets/29fa9e74-c39f-4be8-b7eb-7cf4dcf672a1" />
 
 ## Technical Skills
 

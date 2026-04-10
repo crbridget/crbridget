@@ -56,6 +56,6 @@ Web app with spatial analysis and interactive visualizations exploring disaster 
 ## Background
 
 Northeastern University, Khoury College of Computer Sciences  
-B.S. in Data Science, GPA: 3.70 | Class of 2028
+B.S. in Data Science | Class of 2028
 
-Coursework: Machine Learning, Algorithms and Data, Advanced Programming with Data, Probability and Statistics
+Coursework: Machine Learning, Algorithms and Data, Advanced Programming with Data, Probability and Statistics, Linear Algebra

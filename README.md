@@ -8,5 +8,3 @@ I’m a third year data science student at Northeastern University with an inter
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 Check out my website at [bridget-portfolio.vercel.app](https://bridget-portfolio.vercel.app/)
-
-Reach me at [crampton.b@northeastern.edu](mailto:crampton.b@northeastern.edu)
